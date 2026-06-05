@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img width="1372" height="176" alt="graph-light" src="https://github.com/user-attachments/assets/f8fa6146-64d8-4de4-b373-8400f65b6bb2" />
-
+<img width="2058" height="264" alt="intro-dark" src="https://github.com/user-attachments/assets/b3bc6941-428e-4d61-b211-9150b3d83190" />
 
 <!--
 **claire2017/claire2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
