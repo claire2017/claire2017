@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="1372" height="176" alt="graph-dark" src="https://github.com/user-attachments/assets/a25790e0-ad8f-4cc9-b5b0-2eda7cd7ea38" />
+<img width="1372" height="176" alt="graph-light" src="https://github.com/user-attachments/assets/f8fa6146-64d8-4de4-b373-8400f65b6bb2" />
 
 
 <!--
