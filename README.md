@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Uploading graph-dark.gif…]()
+<img width="1372" height="176" alt="graph-dark" src="https://github.com/user-attachments/assets/a25790e0-ad8f-4cc9-b5b0-2eda7cd7ea38" />
+
 
 <!--
 **claire2017/claire2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
