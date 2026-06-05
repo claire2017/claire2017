@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+In June of 2026, I had the opportunity to go to the Microsoft Build conference in San Francisco. The conference was centered around the topic of AI and how we can utilize the many AI features that Microsoft and other comapnies have released in our day to day developer experience.
 <img width="2058" height="264" alt="intro-light" src="https://github.com/user-attachments/assets/c58c683d-e887-4c5b-9988-4813e8691866" />
 
 
